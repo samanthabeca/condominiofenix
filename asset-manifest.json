@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/condominiofenix/static/css/main.a20ce98e.css",
+    "main.js": "/condominiofenix/static/js/main.9587ec76.js",
+    "static/media/TT Hoves Pro Trial Expanded Light.ttf": "/condominiofenix/static/media/TT Hoves Pro Trial Expanded Light.f5a158f8c9ae7f109edd.ttf",
+    "static/media/TT Hoves Pro Trial Expanded Hairline.ttf": "/condominiofenix/static/media/TT Hoves Pro Trial Expanded Hairline.e26729fd882060c86545.ttf",
+    "static/media/TT Hoves Pro Trial Expanded Regular.ttf": "/condominiofenix/static/media/TT Hoves Pro Trial Expanded Regular.7c06a81f9af7b88bf268.ttf",
+    "static/media/TT Hoves Pro Trial Bold.ttf": "/condominiofenix/static/media/TT Hoves Pro Trial Bold.a589ef78f437d67219f6.ttf",
+    "static/media/catchy-mager.otf": "/condominiofenix/static/media/catchy-mager.1ba31348581834bd0128.otf",
+    "index.html": "/condominiofenix/index.html",
+    "main.a20ce98e.css.map": "/condominiofenix/static/css/main.a20ce98e.css.map",
+    "main.9587ec76.js.map": "/condominiofenix/static/js/main.9587ec76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20ce98e.css",
+    "static/js/main.9587ec76.js"
+  ]
+}
